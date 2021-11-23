@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UAVMK
-- 👀 I’m interested in coding the Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding the C++
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
